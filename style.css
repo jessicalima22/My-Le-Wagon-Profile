@@ -1,0 +1,55 @@
+
+
+
+  body{
+  font-family: "Raleway";
+  background-color: #F7B787;
+  text-align: center;
+  font-weight: 500;
+}
+@media (min-width: 836px) {
+h1, h2{
+  font-family: "Truculenta";
+  font-weight: 500;
+  color: #EE7214;
+  font-size: 40px;
+}
+
+a {
+  text-decoration: none;
+  color: #527853;
+  transition: 0.5s;
+  font-weight: 700;
+}
+
+a:hover{
+  color: #EE7214;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  line-height: 30px
+}
+
+.section{
+  background-color: #F9E8D9;
+  border-radius: 15px;
+  padding: 1em;
+  margin: 2em auto;
+  max-width: 400px;
+  box-shadow: 0 0 16px rgba(0,0,0,0.3);
+}
+
+.drawing-image{
+  margin-right: 1em
+}
+
+
+.images{
+  border-radius: 15px;
+}
+}
